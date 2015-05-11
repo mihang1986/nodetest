@@ -1,0 +1,11 @@
+#  Global #
+*.class
+*.jar
+*.war
+*.ear
+
+# nodetest [eclipse / intellij] #
+.project
+.settings
+.classpath
+target
